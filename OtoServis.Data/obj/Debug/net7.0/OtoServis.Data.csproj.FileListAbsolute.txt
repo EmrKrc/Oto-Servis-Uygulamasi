@@ -1,0 +1,17 @@
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\bin\Debug\net7.0\OtoServis.Data.deps.json
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\bin\Debug\net7.0\OtoServis.Data.runtimeconfig.json
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\bin\Debug\net7.0\OtoServis.Data.dll
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\bin\Debug\net7.0\OtoServis.Data.pdb
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\bin\Debug\net7.0\OtoServis.Entities.dll
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\bin\Debug\net7.0\OtoServis.Entities.pdb
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.csproj.AssemblyReference.cache
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.AssemblyInfoInputs.cache
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.AssemblyInfo.cs
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.csproj.CoreCompileInputs.cache
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServi.88017630.Up2Date
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.dll
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\refint\OtoServis.Data.dll
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.pdb
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\OtoServis.Data.genruntimeconfig.cache
+C:\Users\karac\Desktop\OtoServis\OtoServis.Data\obj\Debug\net7.0\ref\OtoServis.Data.dll

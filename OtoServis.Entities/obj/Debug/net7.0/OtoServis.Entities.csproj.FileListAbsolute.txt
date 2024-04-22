@@ -1,0 +1,11 @@
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\bin\Debug\net7.0\OtoServis.Entities.deps.json
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\bin\Debug\net7.0\OtoServis.Entities.dll
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\bin\Debug\net7.0\OtoServis.Entities.pdb
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\OtoServis.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\OtoServis.Entities.AssemblyInfoInputs.cache
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\OtoServis.Entities.AssemblyInfo.cs
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\OtoServis.Entities.csproj.CoreCompileInputs.cache
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\OtoServis.Entities.dll
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\refint\OtoServis.Entities.dll
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\OtoServis.Entities.pdb
+C:\Users\karac\Desktop\OtoServis\OtoServis.Entities\obj\Debug\net7.0\ref\OtoServis.Entities.dll

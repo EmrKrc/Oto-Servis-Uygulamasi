@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OtoServis.WebUI.props" />
+</Project>

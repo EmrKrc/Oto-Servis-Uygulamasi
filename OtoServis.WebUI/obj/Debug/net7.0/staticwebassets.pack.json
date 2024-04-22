@@ -1,0 +1,461 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\OtoServis.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OtoServis.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\audi-a6-1.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\audi-a6-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\audi-a6-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\audi-a6-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\audi-a6-3.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\audi-a6-3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\bmw-m6-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw-m6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\bmw-m6-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw-m6-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\fiat-egea-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\fiat-egea-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\fiat-egea-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\fiat-egea-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\fiat-egea-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\fiat-egea-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\honda-civic-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\honda-civic-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\honda-civic-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\honda-civic-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\honda-civic-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\honda-civic-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\nuova-suzuki-1.webp",
+      "PackagePath": "staticwebassets\\Img\\Cars\\nuova-suzuki-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\nuova-suzuki-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\nuova-suzuki-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\nuova-suzuki-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\nuova-suzuki-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\opel-mokka-1.webp",
+      "PackagePath": "staticwebassets\\Img\\Cars\\opel-mokka-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\opel-mokka-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\opel-mokka-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\opel-mokka-3.webp",
+      "PackagePath": "staticwebassets\\Img\\Cars\\opel-mokka-3.webp"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\peugeot-3008-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\peugeot-3008-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\peugeot-e-3008-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\peugeot-e-3008-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\peugeot-e-3008-3.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\peugeot-e-3008-3.png"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\seat-leon-1.webp",
+      "PackagePath": "staticwebassets\\Img\\Cars\\seat-leon-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\seat-leon-2.webp",
+      "PackagePath": "staticwebassets\\Img\\Cars\\seat-leon-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\seat-leon-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\seat-leon-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\toyota-corolla-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\toyota-corolla-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\toyota-corolla-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\toyota-corolla-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Cars\\toyota-corolla-3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\toyota-corolla-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Slider\\audi-a6-1.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\audi-a6-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Slider\\audi-a6-2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\audi-a6-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Slider\\audi-a6-3.jpeg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\audi-a6-3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\Img\\Slider\\bmw-m6-1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Slider\\bmw-m6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\401.html",
+      "PackagePath": "staticwebassets\\admin\\401.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\404.html",
+      "PackagePath": "staticwebassets\\admin\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\500.html",
+      "PackagePath": "staticwebassets\\admin\\500.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\charts.html",
+      "PackagePath": "staticwebassets\\admin\\charts.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\index.html",
+      "PackagePath": "staticwebassets\\admin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\admin\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\layout-sidenav-light.html",
+      "PackagePath": "staticwebassets\\admin\\layout-sidenav-light.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\layout-static.html",
+      "PackagePath": "staticwebassets\\admin\\layout-static.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\login.html",
+      "PackagePath": "staticwebassets\\admin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\password.html",
+      "PackagePath": "staticwebassets\\admin\\password.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\register.html",
+      "PackagePath": "staticwebassets\\admin\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\admin\\tables.html",
+      "PackagePath": "staticwebassets\\admin\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OtoServis.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OtoServis.WebUI.props",
+      "PackagePath": "build\\OtoServis.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OtoServis.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\OtoServis.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OtoServis.WebUI.props",
+      "PackagePath": "buildTransitive\\OtoServis.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

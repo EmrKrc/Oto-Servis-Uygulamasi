@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Service\\OtoServis.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Data\\OtoServis.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Data\\OtoServis.Data.csproj",
+        "projectName": "OtoServis.Data",
+        "projectPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Data\\OtoServis.Data.csproj",
+        "packagesPath": "C:\\Users\\karac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Entities\\OtoServis.Entities.csproj": {
+                "projectPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Entities\\OtoServis.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Entities\\OtoServis.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Entities\\OtoServis.Entities.csproj",
+        "projectName": "OtoServis.Entities",
+        "projectPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Entities\\OtoServis.Entities.csproj",
+        "packagesPath": "C:\\Users\\karac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Service\\OtoServis.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Service\\OtoServis.Service.csproj",
+        "projectName": "OtoServis.Service",
+        "projectPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Service\\OtoServis.Service.csproj",
+        "packagesPath": "C:\\Users\\karac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\karac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Data\\OtoServis.Data.csproj": {
+                "projectPath": "C:\\Users\\karac\\Desktop\\OtoServis\\OtoServis.Data\\OtoServis.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
